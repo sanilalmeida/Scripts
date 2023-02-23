@@ -7,6 +7,6 @@
 *.ino linguist-detectable=false
 
 
-*.gs linguist-language=Javascript
+*.ino linguist-language=Javascript
 
 *.c++ linguist-vendored
