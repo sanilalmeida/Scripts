@@ -6,3 +6,5 @@
 *.cpp linguist-detectable=false
 
 *.gs linguist-language=Javascript
+
+*.cpp linguist-vendored
