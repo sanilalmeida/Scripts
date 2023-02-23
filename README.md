@@ -1,5 +1,4 @@
 # Scripts
-Rubber Ducky Scripts
 
 This repo is for various scripts gathered and created by me in different languages to help with penetration testing and vulnerability assessments.
 
