@@ -4,7 +4,7 @@
 *.html linguist-detectable=false
 *.xml linguist-detectable=false
 *.c++ linguist-detectable=false
-*.ino linguist-detectable=false
+*.ino linguist-detectable=true
 
 
 *.ino linguist-language=Javascript
